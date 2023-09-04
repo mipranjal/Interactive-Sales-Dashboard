@@ -8,6 +8,7 @@ The following Python packages need to be installed:
 pandas (can be installed via pip install pandas openpyxl)
 plotly-express (can be installed via pip install plotly-express)
 streamlit (can be installed via pip install streamlit)
+![image](https://github.com/mipranjal/Interactive-Sales-Dashboard/assets/110101325/65bd5d98-7f36-4098-ab32-6f6df7bbebaa)
 
 ## How to Run
 To run the app, execute the following command in the terminal:
